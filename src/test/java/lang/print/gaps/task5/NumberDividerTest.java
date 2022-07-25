@@ -15,4 +15,5 @@ class NumberDividerTest extends BaseIOTest {
 
         assertEquals("3.8\n", updateLineSpliterators(outContent.toString()));
     }
+
 }
